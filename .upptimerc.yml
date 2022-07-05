@@ -13,7 +13,7 @@ sites:
 status-website:
   baseUrl: /uptime
   logoUrl: https://github.com/DagsHub/client/blob/master/dagshub_github.png?raw=true
-  name: DagsHub Status
+  name: Status
   introTitle: "Check the **DagsHub** website status"
 #   introMessage: 
   navbar:
