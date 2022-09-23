@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/dagshub.com",
     "slug": "dags-hub",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
-    "time": 468,
-    "timeDay": 223,
-    "timeWeek": 3331,
-    "timeMonth": 986,
-    "timeYear": 468,
+    "uptimeYear": "99.98%",
+    "time": 464,
+    "timeDay": 141,
+    "timeWeek": 162,
+    "timeMonth": 984,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2022-09-15": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 326,
-    "timeWeek": 305,
-    "timeMonth": 296,
-    "timeYear": 282,
+    "time": 283,
+    "timeDay": 427,
+    "timeWeek": 326,
+    "timeMonth": 300,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 28,
-    "timeDay": 155,
-    "timeWeek": 39,
-    "timeMonth": 32,
-    "timeYear": 28,
+    "time": 29,
+    "timeDay": 90,
+    "timeWeek": 50,
+    "timeMonth": 34,
+    "timeYear": 29,
     "dailyMinutesDown": {}
   }
 ]
