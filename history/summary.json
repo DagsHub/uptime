@@ -4,18 +4,19 @@
     "url": "https://dagshub.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dagshub.com.ico",
     "slug": "dags-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.86%",
     "time": 474,
     "timeDay": 203,
-    "timeWeek": 1518,
+    "timeWeek": 1643,
     "timeMonth": 1297,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2023-02-23": 1,
       "2023-02-22": 19,
       "2023-02-21": 33,
       "2023-02-16": 30,
@@ -40,11 +41,11 @@
     "url": "https://dagshub.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/dagshub.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.75%",
     "time": 330,
     "timeDay": 204,
@@ -52,6 +53,7 @@
     "timeMonth": 634,
     "timeYear": 330,
     "dailyMinutesDown": {
+      "2023-02-23": 1,
       "2023-02-04": 455,
       "2023-02-03": 366,
       "2022-11-10": 12
@@ -62,9 +64,9 @@
     "url": "https://dagshub.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/dagshub.com.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +75,8 @@
     "timeWeek": 21,
     "timeMonth": 26,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   }
 ]
