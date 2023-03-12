@@ -4,7 +4,7 @@
     "url": "https://dagshub.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dagshub.com.ico",
     "slug": "dags-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 543,
     "timeYear": 446,
     "dailyMinutesDown": {
+      "2023-03-12": 0,
       "2023-03-07": 332,
       "2023-03-06": 82,
       "2023-03-01": 59,
