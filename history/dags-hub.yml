@@ -1,7 +1,7 @@
 url: https://dagshub.com/
-status: up
-code: 200
-responseTime: 189
-lastUpdated: 2023-05-19T23:06:59.410Z
+status: down
+code: 502
+responseTime: 141
+lastUpdated: 2023-05-20T17:32:31.493Z
 startTime: Tue Jul 05 2022 13:02:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
