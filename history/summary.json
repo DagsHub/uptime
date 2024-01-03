@@ -6,13 +6,13 @@
     "slug": "dags-hub",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.59%",
     "time": 277,
-    "timeDay": 114,
-    "timeWeek": 121,
+    "timeDay": 170,
+    "timeWeek": 132,
     "timeMonth": 130,
     "timeYear": 261,
     "dailyMinutesDown": {
@@ -95,8 +95,7 @@
       "2023-02-01": 11,
       "2023-01-30": 12,
       "2023-01-29": 10,
-      "2023-01-04": 10,
-      "2023-01-03": 22
+      "2023-01-04": 10
     }
   },
   {
@@ -111,8 +110,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.79%",
     "time": 321,
-    "timeDay": 274,
-    "timeWeek": 245,
+    "timeDay": 235,
+    "timeWeek": 256,
     "timeMonth": 270,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -138,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 24,
-    "timeDay": 5,
-    "timeWeek": 7,
-    "timeMonth": 17,
+    "timeDay": 9,
+    "timeWeek": 6,
+    "timeMonth": 12,
     "timeYear": 24,
     "dailyMinutesDown": {
       "2023-02-23": 93
